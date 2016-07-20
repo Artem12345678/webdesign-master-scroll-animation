@@ -1,0 +1,6 @@
+section {
+	min-height:700px;
+	border-bottom: #ccc 1px solid;
+	animation-duration: 1s;
+	animation-delay: 1s;
+}
